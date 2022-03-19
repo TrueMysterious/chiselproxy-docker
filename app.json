@@ -1,10 +1,10 @@
 {
-  "name": "chisel-heroku",
-  "description": "Deploy chisel to Heroku as a SOCKS5 proxy.",
+  "name": "NameitSometthing for god sake",
+  "description": "write here something",
   "stack": "container",
   "env": {
     "CHISEL_AUTH": {
-      "description": "The --auth option of chisel, in the form of <user:pass>."
+      "description": "you know this donot you?"
     }
   }
 }
