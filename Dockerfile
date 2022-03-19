@@ -4,4 +4,4 @@ RUN chmod +x /bin/chisel
 RUN useradd -m heroku
 USER heroku
 EXPOSE 5000
-CMD chisel server --port $PORT --proxy duck.com
+CMD chisel server --proxy duck.com
